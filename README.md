@@ -25,4 +25,4 @@ To run the script you need to:
 2. Configure the script by updating `.env.example` file (**remove the .example from the file name when done**).
 3. Run the script by typing: `npm run dev` in terminal
 
-![output]('./public/git/swap.png')
+![output](https://github.com/meodien99/eth-dex-starter/blob/main/public/git/swap.png?raw=true)
